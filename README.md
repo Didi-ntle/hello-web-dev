@@ -1,2 +1,3 @@
 # hello-web-dev
-Sample Work 
+This is my first repository.
+I am learning GitHub and version control.
